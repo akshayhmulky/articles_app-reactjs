@@ -1,0 +1,15 @@
+.inner-container button {
+  margin: 0 2rem 1rem 2rem;
+  padding: 0.9rem;
+  border: none;
+  background-color: rgb(55, 145, 47);
+  color: rgb(247, 245, 245);
+  font-weight: bold;
+  border-radius: 10px;
+  width: 120px;
+  cursor: pointer;
+}
+
+.inner-container button:hover {
+  background-color: rgb(93, 192, 84);
+}
